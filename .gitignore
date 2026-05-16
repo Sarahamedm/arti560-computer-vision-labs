@@ -1,0 +1,8 @@
+*.avi
+*.caffemodel
+*.mp4
+lab07-*/
+lab08-*/
+*.tar.gz
+**/lab10-visual-representations/*.png
+**/oxford-iiit-pet/
